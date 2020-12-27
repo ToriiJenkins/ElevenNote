@@ -1,0 +1,16 @@
+C:\Users\btjen\Desktop\Eleven Fifty\ElevenFiftyProjects\ElevenNote\ElevenNote.Contacts\bin\Debug\ElevenNote.Contacts.dll
+C:\Users\btjen\Desktop\Eleven Fifty\ElevenFiftyProjects\ElevenNote\ElevenNote.Contacts\bin\Debug\ElevenNote.Contacts.pdb
+C:\Users\btjen\Desktop\Eleven Fifty\ElevenFiftyProjects\ElevenNote\ElevenNote.Contacts\obj\Debug\ElevenNote.Contacts.csprojAssemblyReference.cache
+C:\Users\btjen\Desktop\Eleven Fifty\ElevenFiftyProjects\ElevenNote\ElevenNote.Contacts\obj\Debug\ElevenNote.Contacts.csproj.CoreCompileInputs.cache
+C:\Users\btjen\Desktop\Eleven Fifty\ElevenFiftyProjects\ElevenNote\ElevenNote.Contacts\obj\Debug\ElevenNote.Contacts.dll
+C:\Users\btjen\Desktop\Eleven Fifty\ElevenFiftyProjects\ElevenNote\ElevenNote.Contacts\obj\Debug\ElevenNote.Contacts.pdb
+C:\Users\btjen\Desktop\Eleven Fifty\ElevenFiftyProjects\ElevenNote\ElevenNote.Contacts\bin\Debug\ElevenNote.Contacts.dll.config
+C:\Users\btjen\Desktop\Eleven Fifty\ElevenFiftyProjects\ElevenNote\ElevenNote.Contacts\bin\Debug\EntityFramework.dll
+C:\Users\btjen\Desktop\Eleven Fifty\ElevenFiftyProjects\ElevenNote\ElevenNote.Contacts\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\btjen\Desktop\Eleven Fifty\ElevenFiftyProjects\ElevenNote\ElevenNote.Contacts\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\btjen\Desktop\Eleven Fifty\ElevenFiftyProjects\ElevenNote\ElevenNote.Contacts\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\btjen\Desktop\Eleven Fifty\ElevenFiftyProjects\ElevenNote\ElevenNote.Contacts\bin\Debug\EntityFramework.xml
+C:\Users\btjen\Desktop\Eleven Fifty\ElevenFiftyProjects\ElevenNote\ElevenNote.Contacts\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\btjen\Desktop\Eleven Fifty\ElevenFiftyProjects\ElevenNote\ElevenNote.Contacts\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\btjen\Desktop\Eleven Fifty\ElevenFiftyProjects\ElevenNote\ElevenNote.Contacts\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\btjen\Desktop\Eleven Fifty\ElevenFiftyProjects\ElevenNote\ElevenNote.Contacts\obj\Debug\ElevenNote.Contacts.csproj.CopyComplete
