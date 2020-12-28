@@ -14,3 +14,9 @@ C:\Users\btjen\Desktop\Eleven Fifty\ElevenFiftyProjects\ElevenNote\ElevenNote.Se
 C:\Users\btjen\Desktop\Eleven Fifty\ElevenFiftyProjects\ElevenNote\ElevenNote.Services\bin\Debug\Microsoft.AspNet.Identity.Core.xml
 C:\Users\btjen\Desktop\Eleven Fifty\ElevenFiftyProjects\ElevenNote\ElevenNote.Services\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
 C:\Users\btjen\Desktop\Eleven Fifty\ElevenFiftyProjects\ElevenNote\ElevenNote.Services\obj\Debug\ElevenNote.Services.csproj.CopyComplete
+C:\Users\btjen\Desktop\Eleven Fifty\ElevenFiftyProjects\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Data.dll
+C:\Users\btjen\Desktop\Eleven Fifty\ElevenFiftyProjects\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Models.dll
+C:\Users\btjen\Desktop\Eleven Fifty\ElevenFiftyProjects\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Data.pdb
+C:\Users\btjen\Desktop\Eleven Fifty\ElevenFiftyProjects\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Data.dll.config
+C:\Users\btjen\Desktop\Eleven Fifty\ElevenFiftyProjects\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Models.pdb
+C:\Users\btjen\Desktop\Eleven Fifty\ElevenFiftyProjects\ElevenNote\ElevenNote.Services\bin\Debug\ElevenNote.Models.dll.config
