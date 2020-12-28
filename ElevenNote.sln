@@ -11,7 +11,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElevenNote.Models", "Eleven
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElevenNote.Services", "ElevenNote.Services\ElevenNote.Services.csproj", "{4B75755C-BEBD-4E78-B7DE-60E49AFFE311}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElevenNote.Contacts", "ElevenNote.Contacts\ElevenNote.Contacts.csproj", "{7D9548AC-F5C8-482B-9967-5E16056A60B7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElevenNote.Contracts", "ElevenNote.Contacts\ElevenNote.Contracts.csproj", "{7D9548AC-F5C8-482B-9967-5E16056A60B7}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ElevenNote.Tests", "ElevenNote.Tests\ElevenNote.Tests.csproj", "{01CF675C-21E0-45CE-BBA3-650F3B94E789}"
 EndProject
